@@ -71,10 +71,10 @@ Termin 1
 Termin 2
    Definicja 2
 
-Obraz (z alternatywnym tekstem oraz podpisem)
+Obraz
 ==============================================
 
-.. image:: https://cdn.discordapp.com/attachments/1034029157065171026/1342954550021328986/image.png?ex=67bb8363&is=67ba31e3&hm=9f396ae5c3ac562d9343913c71724a0385a932e940260bcebf77480a50aba886&
+.. figure:: /_static/zdjecie.png
    :alt: Opis alternatywny obrazu
    :align: center
    :scale: 75%
